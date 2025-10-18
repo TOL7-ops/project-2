@@ -29,7 +29,7 @@ body{
 }
 
 .nav-logo {
-    padding: 0 2em;
+    padding: 0 2rem;
 }
 
 .nav-links {
@@ -263,7 +263,7 @@ ul li a:hover::after {
 
     ul li a {
         padding: 1rem;
-        margin: 1rem 0;
+        margin: 1rem;
 
     }
 
